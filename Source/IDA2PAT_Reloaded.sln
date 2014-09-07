@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IDA2PAT_Reloaded", "IDA2PAT_Reloaded.vcproj", "{D1D7AEE3-1EAA-4DC0-8856-F002913B6F4F}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IDA2PAT_Reloaded", "IDA2PAT_Reloaded.vcxproj", "{D1D7AEE3-1EAA-4DC0-8856-F002913B6F4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
